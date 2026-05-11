@@ -1,0 +1,8 @@
+{
+  "name": "node-app",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node --experimental-strip-types index.ts"
+  }
+}
